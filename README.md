@@ -1,4 +1,4 @@
-# Tugas-Akhir-Big-Data-dan-Analitik
+# Tugas Akhir Kelompok BDA - Text Mining dan Sentiment Analysis Wisata Kota Jogja
 
 ### **Anggota Kelompok:**
 1. Ariq Tsaqif Aryasuta (20/460541/TK/51130)
